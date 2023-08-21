@@ -1,0 +1,16 @@
+{
+    "tracks": [
+        {
+            "id": 1,
+            "title": "a",
+            "duration": 352,
+            "artist": "u2"
+        },
+        {
+            "id": 2,
+            "title": "b",
+            "duration": 312,
+            "artist": "inxs"
+        }
+    ]
+}
