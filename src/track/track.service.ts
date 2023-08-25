@@ -2,6 +2,7 @@ import { Injectable } from '@nestjs/common';
 const BASE_URL = "http://localhost:3030/tracks";
 import { Track } from './track.interface';
 import * as fs from "fs";
+import fetch from 'node-fetch';
 
 @Injectable()
 export class TrackService {
